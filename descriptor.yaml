@@ -6,18 +6,18 @@ components:
     - plugins/custportapp-plugin.yaml
 
   widgets:
-    - ui/widgets/cp-widgets-outer/cp-widgets/admin-dashboard-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/admin-add-customer-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/admin-rolecheck-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/custom-datatable-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/customer-dashboard-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/customer-details-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/custom-datatable-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/forms-enhancement-request-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/forms-openticket-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/navigation-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/subscription-form-widget-descriptor.yaml
-    - ui/widgets/cp-widgets-outer/cp-widgets/subscription-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/admin-dashboard-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/admin-add-customer-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/admin-rolecheck-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/custom-datatable-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/customer-dashboard-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/customer-details-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/custom-datatable-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/forms-enhancement-request-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/forms-openticket-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/navigation-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/subscription-form-widget-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/subscription-widget-descriptor.yaml
     - ui/widgets/customer/tableWidget/customer-table-widget-descriptor.yaml
     - ui/widgets/customer/detailsWidget/customer-details-widget-descriptor.yaml
     - ui/widgets/customer/formWidget/customer-form-widget-descriptor.yaml
