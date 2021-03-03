@@ -1,13 +1,13 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.05ce8e77.chunk.js"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.05ce8e77.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.05ce8e77.chunk.js.map"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.566367d3.chunk.js"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.566367d3.chunk.js.map"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.b50d801c.chunk.js"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.b50d801c.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.b50d801c.chunk.js.map"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.4d22084f.chunk.js"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.4d22084f.chunk.js.map"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js.map"></script>
-<link href="<@wp.resourceURL />custportapp-bundle/static/css/main.dd229ea1.chunk.css" rel="stylesheet">
-<link href="<@wp.resourceURL />custportapp-bundle/static/css/main.dd229ea1.chunk.css.map" rel="stylesheet">
+<link href="<@wp.resourceURL />custportapp-bundle/static/css/main.d925f5a7.chunk.css" rel="stylesheet">
+<link href="<@wp.resourceURL />custportapp-bundle/static/css/main.d925f5a7.chunk.css.map" rel="stylesheet">
 <#-- entando_resource_injection_point -->
 <#-- Don't add anything above this line. The build scripts will automatically link the compiled JS and CSS for you and add them above this line so that the widget can be loaded-->
 
