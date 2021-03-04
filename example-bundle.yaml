@@ -12,8 +12,9 @@ spec:
     name: custportapp-bundle
     description: This is the custportApp bundle
     dist-tags:
-      latest: v0.0.6
+      latest: v0.0.7
     versions:
+      - v0.0.7
       - v0.0.6
       - v0.0.5
       - v0.0.4
@@ -21,6 +22,10 @@ spec:
       - v0.0.2
       - v0.0.1
   tags:
+    - version: v0.0.7
+      shasum: 0e757b9d51224798221424076a79ea68b50b44f2
+      integrity: 0e757b9d51224798221424076a79ea68b50b44f2
+      tarball: 'https://github.com/jorden-gerovac-veriday/custport-bundle.git'
     - version: v0.0.6
       shasum: 11a74c83776a381a9390b370be74a8661210c2bc
       integrity: 11a74c83776a381a9390b370be74a8661210c2bc
