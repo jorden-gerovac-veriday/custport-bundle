@@ -1,9 +1,9 @@
 <#assign wp=JspTaglibs["/aps-core"]>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.a3e54b8c.chunk.js"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.a3e54b8c.chunk.js.LICENSE.txt"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.a3e54b8c.chunk.js.map"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.2889a543.chunk.js"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.2889a543.chunk.js.map"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.45cfb6e9.chunk.js"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.45cfb6e9.chunk.js.LICENSE.txt"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/2.45cfb6e9.chunk.js.map"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.90a57ccb.chunk.js"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.90a57ccb.chunk.js.map"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js.map"></script>
 <link href="<@wp.resourceURL />custportapp-bundle/static/css/main.d925f5a7.chunk.css" rel="stylesheet">

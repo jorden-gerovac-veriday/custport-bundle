@@ -18,6 +18,7 @@ components:
     - ui/widgets/cp-widgets-dir/cp-widgets/subscription-form-widget-descriptor.yaml
     - ui/widgets/cp-widgets-dir/cp-widgets/subscription-widget-descriptor.yaml
     - ui/widgets/cp-widgets-dir/cp-widgets/app-element-descriptor.yaml
+    - ui/widgets/cp-widgets-dir/cp-widgets/ticket-list-widget-descriptor.yaml
 #    - ui/widgets/customer/tableWidget/customer-table-widget-descriptor.yaml
 #    - ui/widgets/customer/detailsWidget/customer-details-widget-descriptor.yaml
 #    - ui/widgets/customer/formWidget/customer-form-widget-descriptor.yaml
