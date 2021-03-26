@@ -2,8 +2,8 @@
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/2.4d7c413f.chunk.js"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/2.4d7c413f.chunk.js.LICENSE.txt"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/2.4d7c413f.chunk.js.map"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.e83fdeb9.chunk.js"></script>
-<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.e83fdeb9.chunk.js.map"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.e253d908.chunk.js"></script>
+<script src="<@wp.resourceURL />custportapp-bundle/static/js/main.e253d908.chunk.js.map"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js"></script>
 <script src="<@wp.resourceURL />custportapp-bundle/static/js/runtime-main.1c33988b.js.map"></script>
 <link href="<@wp.resourceURL />custportapp-bundle/static/css/main.daaf5836.chunk.css" rel="stylesheet">
